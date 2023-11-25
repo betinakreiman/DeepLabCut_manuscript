@@ -5,7 +5,5 @@ In this study, we hypothesized that machine learning supervised with adequate hu
 
 ![alt graphic](figure.jpg "DLC Figure")
 
-#### Authors
-Betina Kreiman, Jaeson Jang, Lakshmi Narasimhan Govindarajan, and Thomas Serre
-
-Submitted to the Journal of Emerging Investigators
+#### Citation
+Kreiman B, Jang J, Govindarajan L, Serre T. Recognition of animal body parts via supervised learning. Journal of Emerging Investigators (2023), Vol. 6, [doi.org/10.59720/23-109](https://emerginginvestigators.org/articles/23-109)
